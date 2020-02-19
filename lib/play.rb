@@ -41,5 +41,4 @@ def play(board)
   while (round != 9)
     turn(board)
   end
-
 end
